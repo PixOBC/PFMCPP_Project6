@@ -4,7 +4,7 @@
 
 Create a branch named Part1
 
-Purpose:  This project will show you the difference between member functions and static class functions, as well as the difference between pointers and references and the code semantics that accompany pointers and references.
+Purpose:  This project will show you the difference between member functions and static class functions, as well as the difference between pointers and references and the code semantics that accompany pointers and reference s.
 
  Pointers
 
